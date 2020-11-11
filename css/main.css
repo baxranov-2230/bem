@@ -88,7 +88,7 @@ li {
 .about_text{
     cursor: pointer;
     font-size: 15px;
-    margin-bottom: 125px;
+    margin-bottom: 110px;
 }
 .about_h3{
     cursor: pointer;
@@ -100,4 +100,22 @@ li {
 
 .service{
     background-color: #E4FDF9;
+    padding-top: 120px;
+    padding-bottom: 125px;
+    color: black;
+    text-align: center;
+}
+
+.our_card{
+    background-color: white;
+    padding: 50px 20px 40px;
+}
+.icon{
+    font-size: 60px;
+    color: black;
+}
+.service_text{
+    cursor: pointer;
+    font-size: 15px;
+    margin-bottom: 20px;
 }
