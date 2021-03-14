@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca28ea2a-dd27-4818-ba83-d17b13114c08" name="Default Changelist" comment="">
+    <list default="true" id="ca28ea2a-dd27-4818-ba83-d17b13114c08" name="Default Changelist" comment="Section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -53,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bemWithBootsrap-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -61,10 +61,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\create site\bem\js" />
       <recent name="C:\Users\User\Desktop\AT markaz\Web dasturlash\project_4" />
     </key>
   </component>
@@ -77,10 +79,22 @@
       <option name="presentableId" value="Default" />
       <updated>1604982213485</updated>
       <workItem from="1604982214537" duration="9660000" />
-      <workItem from="1605058455140" duration="5724000" />
+      <workItem from="1605058455140" duration="6974000" />
+      <workItem from="1605120016088" duration="87000" />
+      <workItem from="1605198268945" duration="3077000" />
+      <workItem from="1605239636270" duration="9289000" />
+      <workItem from="1605621069469" duration="1006000" />
+    </task>
+    <task id="LOCAL-00001" summary="Section">
+      <created>1605079671563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605079671563</updated>
       <workItem from="1605094217578" duration="1028000" />
       <workItem from="1605095270209" duration="2563000" />
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,14 +112,23 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="419" y="153" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604982499603">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="419" y="153" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604982499603" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605097455398">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605624000927">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605624000927" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1605248680541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605248680541" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605097455398" />
     <state x="559" y="265" key="Github.ShareDialog" timestamp="1605075759990">
       <screen x="0" y="0" width="1366" height="728" />
@@ -115,5 +138,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="498" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605075766812" />
+    <state x="156" y="0" width="998" height="728" key="SettingsEditor" timestamp="1605198623690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="156" y="0" width="998" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605198623690" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1605079673331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605079673331" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605079654745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605079654745" />
   </component>
 </project>
